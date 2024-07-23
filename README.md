@@ -6,7 +6,7 @@ Création d'une barre qui va permettre de faire défiler la progression du conte
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/scroll_progress_bar/
 
 ## Développez avec
 
